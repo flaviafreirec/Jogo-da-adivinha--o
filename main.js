@@ -9,7 +9,7 @@ const inputNumber = document.querySelector("#inputNumber")
 
 let randomNumber = Math.round(Math.random() * 10);
 
-document.get
+
 let xAttempts = 1;
 
 
